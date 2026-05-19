@@ -1,0 +1,8 @@
+evolver-hybrid/raw/*
+evolver-hybrid/memory/*.ndjson
+evolver-hybrid/memory/*.json
+evolver-hybrid/memory/agent-genes/*.json
+evolver-hybrid/artifacts/*.json
+evolver-hybrid/artifacts/*.md
+!evolver-hybrid/artifacts/gene-candidates/
+!evolver-hybrid/artifacts/promotion-packets/
